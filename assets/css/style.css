@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed class selector to header tag selector, replaced div with section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,11 +16,13 @@ header {
     color: #ffffff;
 }
 
+/* Added h1 tag selector */ 
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Added span, box, and li tag selectors since div was removed */
 span {
     color: #d9dcd6;
 }
@@ -46,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/* Moved background image url to HTML file with alt tag, kept class selector */
 .hero {
     height: 800px;
     width: 100%;
@@ -183,13 +187,14 @@ p {
     font-size: 36px;
 }
 
-footer {
+/* Added footer attribute to h4 tag */
+.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
