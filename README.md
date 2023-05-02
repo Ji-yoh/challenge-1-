@@ -34,7 +34,7 @@ Specific Subtasks
 
 ## Development 
 - Updated title tag with a more descriptive title to display on browser. 
-- Removed <div> elements and replaced with <section> tags.
+- Removed div elements and replaced with section tags.
     - Placed <span> in header element.
 - Consolidated CSS selectors for benefits sidebar under class selector .benefits. Also consolidated div ul & div .header selectors under box tag selector. 
 - Added alt tags to all img elements. 
@@ -42,6 +42,4 @@ Specific Subtasks
 
 ## Deployment Screenshot
 
-```md
 ![Screenshot of Deployed Site](./assets/images/final-screenshot.png)
-```
