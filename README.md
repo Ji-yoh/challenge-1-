@@ -38,3 +38,10 @@ Specific Subtasks
     - Placed <span> in header element.
 - Consolidated CSS selectors for benefits sidebar under class selector .benefits. Also consolidated div ul & div .header selectors under box tag selector. 
 - Added alt tags to all img elements. 
+- Deployed to (https://ji-yoh.github.io/challenge-1-/)
+
+## Deployment Screenshot
+
+```md
+![Screenshot of Deployed Site](./assets/images/final-screenshot.png)
+```
